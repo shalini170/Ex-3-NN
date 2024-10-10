@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME : SUCHITRA NATH</H3>
-<H3>ENTER YOUR REGISTER NO. : 212223220112</H3>
+<H3>ENTER YOUR NAME : shalini venkatesulu</H3>
+<H3>ENTER YOUR REGISTER NO. : 2122232220104</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE: 10/10/2024</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
